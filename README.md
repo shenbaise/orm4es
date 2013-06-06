@@ -23,8 +23,7 @@ Product -i product
  -P,--package <arg>     package.
  -p,--port <arg>        es port,default 9300.
 this is a orm tool for es.
-======
-
+=============================================
 orm for es index mapping.code gen
 
 shenbaise1001@126.com
