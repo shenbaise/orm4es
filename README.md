@@ -10,11 +10,11 @@ the main method of the bean show how to use it.</br>
 
 step 1</br>
 
-	svn install</br>
+	svn install
 	
 step 2</br>
 
-	java -jar orm4es-0.0.1-SNAPSHOT.jar -h</br>
+	java -jar orm4es-0.0.1-SNAPSHOT.jar -h
 	
 
 usage: orm4es [-c <arg>] [-C <arg>] [-d <arg>] [-H <arg>]</br>
